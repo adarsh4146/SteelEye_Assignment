@@ -1,0 +1,9 @@
+
+
+{
+    "url": "https://www.iso20022.org/sites/default/files/ISO10383_MIC/ISO10383_MIC.xls",
+    "bucket_name": "adabucket",
+    "retun_url_bool": false,
+    "return_url": "https://adabucket.s3.amazonaws.com/data_20220704-015227.json",
+    "sheet_name": "MICs List by CC"
+}
